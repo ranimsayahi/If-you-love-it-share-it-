@@ -1,8 +1,0 @@
-flask
-flask-smorest
-flask-sqlalchemy
-python-dotenv
-marshmallow
-Flask-JWT-Extended
-bcrypt
-flask-cors
